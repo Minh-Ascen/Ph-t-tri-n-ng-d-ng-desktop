@@ -1,0 +1,10 @@
+D:\btap\btap\bin\Debug\btap.exe.config
+D:\btap\btap\bin\Debug\btap.exe
+D:\btap\btap\bin\Debug\btap.pdb
+D:\btap\btap\obj\Debug\btap.csproj.AssemblyReference.cache
+D:\btap\btap\obj\Debug\btap.Form1.resources
+D:\btap\btap\obj\Debug\btap.Properties.Resources.resources
+D:\btap\btap\obj\Debug\btap.csproj.GenerateResource.cache
+D:\btap\btap\obj\Debug\btap.csproj.CoreCompileInputs.cache
+D:\btap\btap\obj\Debug\btap.exe
+D:\btap\btap\obj\Debug\btap.pdb
